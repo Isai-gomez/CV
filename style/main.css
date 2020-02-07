@@ -44,3 +44,9 @@ footer{
 p{
   text-align: justify;
 }
+.habilidades{
+  text-align: center;
+  background-color: rgba(10, 92, 95, 0.795);
+  color: #fff;
+  margin-bottom: 1em;
+}
