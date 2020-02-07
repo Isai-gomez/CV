@@ -1,3 +1,4 @@
+
 .column1 {
   margin-top: 3em; 
    
@@ -12,8 +13,6 @@
 .imagen {
   width: 30vh;
   height: 30vh;
-  
-  
 }
 .center{
   display: flex;
@@ -26,25 +25,20 @@
   margin-top: 3em;
 }
 
-.column2 > section {
-  /* display: grid;
-  align-items: center; */
-}
-.column2 > section h2 {
+.column2 > section h3 {
   text-align: center;
   background-color: rgba(10, 92, 95, 0.795);
   color: #fff;
+  margin-bottom: 1em;
 }
-footer {
-  background-color: rgb(66, 62, 58);
-  grid-area: 2/1 / 2/3;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 footer > p {
   color: #fff;
   text-align: center;
+}
+footer{
+  height: 2em;
+  background-color: rgba(92, 99, 96, 0.671);
 }
 
 p{
