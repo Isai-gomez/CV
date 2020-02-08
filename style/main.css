@@ -27,18 +27,17 @@
 
 .column2 > section h3 {
   text-align: center;
-  background-color: rgba(10, 92, 95, 0.795);
-  color: #fff;
-  margin-bottom: 1em;
+  
 }
 
 footer > p {
-  color: #fff;
   text-align: center;
+ 
 }
 footer{
   height: 2em;
   background-color: rgba(92, 99, 96, 0.671);
+  margin-top: 1em;
 }
 
 p{
@@ -46,7 +45,5 @@ p{
 }
 .habilidades{
   text-align: center;
-  background-color: rgba(10, 92, 95, 0.795);
-  color: #fff;
-  margin-bottom: 1em;
+  
 }
