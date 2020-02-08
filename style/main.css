@@ -7,9 +7,7 @@
   text-align: start;
   
 }
-.photo-perfil {
-  margin-bottom: 2em;
-}
+
 .imagen {
   width: 10em;
   height: 10em;
@@ -17,6 +15,7 @@
 .center{
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 .column1 > article{
   margin-top: 0;
